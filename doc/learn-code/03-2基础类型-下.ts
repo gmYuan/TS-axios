@@ -28,3 +28,10 @@ declare function create(o: object | null): void
 let test1: any = '我是测试1'
 let test1Length: number = (test1 as string).length
 console.log('长度:', test1Length)
+
+
+
+// 6 元组
+let tuple1: [string, number]
+// tuple1[5]            // 越界访问会报错
+console.log(tuple1[0])
