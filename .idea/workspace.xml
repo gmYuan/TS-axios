@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="912cd1f4-29b9-4e32-9884-d44ec3d76dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +22,19 @@
         <entry file="file://$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="676">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="336">
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -33,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="504">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -47,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/greet.js" />
         <option value="$PROJECT_DIR$/greet.ts" />
@@ -56,6 +64,7 @@
         <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts" />
       </list>
     </option>
@@ -77,6 +86,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,13 +116,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc/learn-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -183,11 +192,12 @@
       <workItem from="1563445048634" duration="1798000" />
       <workItem from="1563511791067" duration="1027000" />
       <workItem from="1565168194826" duration="5173000" />
+      <workItem from="1566217253275" duration="1854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14692000" />
+    <option name="totallyTimeSpent" value="16546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,7 +212,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1780243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -226,17 +236,14 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/greet.js.map" />
-        <option value="$PROJECT_DIR$/greet.js" />
-        <option value="$PROJECT_DIR$/greet.js.map" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
       </list>
     </option>
   </component>
@@ -284,16 +291,6 @@
     <entry file="file://$PROJECT_DIR$/greet.js.map" />
     <entry file="file://$PROJECT_DIR$/greet.js" />
     <entry file="file://$PROJECT_DIR$/greet.ts" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -369,15 +366,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="504">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="336">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
