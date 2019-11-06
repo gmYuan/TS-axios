@@ -18,4 +18,8 @@ console.log('angthing是', anything);
 var test1 = '我是测试1';
 var test1Length = test1.length;
 console.log('长度:', test1Length);
+// 6 元组
+var tuple1;
+// tuple1[5]            // 越界访问会报错
+console.log(tuple1[0]);
 //# sourceMappingURL=03-2基础类型-下.js.map

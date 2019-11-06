@@ -39,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/greet.js" />
         <option value="$PROJECT_DIR$/greet.ts" />
@@ -130,6 +129,9 @@
   </component>
   <component name="RunManager" selected="Node.js.03-1基础类型-上.js">
     <configuration name="03-1基础类型-上.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-1基础类型-上.js" working-dir="$PROJECT_DIR$/doc/learn-code">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-11 接口-额外属性检查+函数类型+可索引类型 .js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-11 接口-额外属性检查+函数类型+可索引类型 .js" working-dir="$PROJECT_DIR$/doc/learn-code">
       <method v="2" />
     </configuration>
     <configuration name="03-2基础类型-下.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-2基础类型-下.js" working-dir="$PROJECT_DIR$/doc/learn-code">
@@ -226,6 +228,7 @@
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
       </list>
     </option>
   </component>
@@ -273,16 +276,6 @@
     <entry file="file://$PROJECT_DIR$/greet.js.map" />
     <entry file="file://$PROJECT_DIR$/greet.js" />
     <entry file="file://$PROJECT_DIR$/greet.ts" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
