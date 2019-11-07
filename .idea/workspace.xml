@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="912cd1f4-29b9-4e32-9884-d44ec3d76dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/learn-code/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,12 +21,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts">
+        <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="348">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-174">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -43,9 +52,9 @@
         <option value="$PROJECT_DIR$/greet.js" />
         <option value="$PROJECT_DIR$/greet.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-9 接口含义.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" />
       </list>
     </option>
   </component>
@@ -55,7 +64,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="233" />
     <option name="y" value="66" />
     <option name="width" value="1400" />
@@ -66,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,12 +98,13 @@
               <item name="TS-axios" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
               <item name="learn-code" type="462c0819:PsiDirectoryNode" />
-              <item name="03-1基础类型-上.ts" type="620a8d5e:NestingTreeNode" />
+              <item name="03-2基础类型-下.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.03-1基础类型-上.js">
+  <component name="RunManager" selected="Node.js.03-2基础类型-下.js">
     <configuration name="03-1基础类型-上.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-1基础类型-上.js" working-dir="$PROJECT_DIR$/doc/learn-code">
       <method v="2" />
     </configuration>
@@ -148,10 +157,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.03-2基础类型-下.js" />
         <item itemvalue="Node.js.03-1基础类型-上.js" />
         <item itemvalue="Node.js.03-9 接口含义.js" />
         <item itemvalue="Node.js.03-7 解构赋值.js" />
-        <item itemvalue="Node.js.03-2基础类型-下.js" />
         <item itemvalue="Node.js.greet.js" />
       </list>
     </recent_temporary>
@@ -179,11 +188,12 @@
       <workItem from="1564669585263" duration="851000" />
       <workItem from="1566352784263" duration="595000" />
       <workItem from="1573052549649" duration="1234000" />
+      <workItem from="1573136627190" duration="2551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13329000" />
+    <option name="totallyTimeSpent" value="15880000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,7 +238,6 @@
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
       </list>
     </option>
   </component>
@@ -293,20 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/learn-code/03-7 解构赋值.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -321,20 +316,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-9 接口含义.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-9 接口含义.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-9 接口含义.js" />
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-9 接口含义.ts" />
     <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -345,7 +328,21 @@
     <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

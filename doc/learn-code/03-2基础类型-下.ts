@@ -1,37 +1,33 @@
-// 1 枚举
-enum Color {
-  Red = 2,
-  Green = 4,
-  Blue = 1
-}
+//1 枚举
+enum Color {red = 2, green, blue = 5}
 
-let c1: string = Color[4]
-let c2: Color = Color.Green
-console.log(c1, c2)
+let excolor: Color = Color.green
+let excolorName: string = Color[5]
+console.log(excolor, excolorName)
+
 
 // 2 any
-let anything : any[] = ['111ssss', 32]
-anything = [222]
-console.log('angthing是' ,anything)
+let ex2: any = 99
+ex2 = '晚上好'
+console.log(ex2)
+
 
 // 3 never / void / null / undefined
+function fn3(): void {
+  console.log('我是void例子')
+}
+fn3()
 
 
 // 4 object
-declare function create(o: object | null): void
+declare function create(o: object | null): void;
 
-// create({'name': 'ycstar'})  正确
-// create(123)
+//create({'name': 'ygm'})  // 正确
+// create(4354)
 
 
 // 5 类型断言
-let test1: any = '我是测试1'
-let test1Length: number = (test1 as string).length
-console.log('长度:', test1Length)
+let ex5: any = '我是例子5'
+let ex6: number = ex5.length
+console.log(ex6)
 
-
-
-// 6 元组
-let tuple1: [string, number]
-// tuple1[5]            // 越界访问会报错
-console.log(tuple1[0])
