@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="912cd1f4-29b9-4e32-9884-d44ec3d76dee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/doc/02 TS类型(视频3.1 -- 3.2).md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/03 变量声明(3.3-3.8视频).md" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.js" afterDir="false" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +26,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-174">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,13 +61,17 @@
         <option value="$PROJECT_DIR$/greet.js" />
         <option value="$PROJECT_DIR$/greet.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-9 接口含义.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.ts" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.ts" />
+=======
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
       </list>
     </option>
   </component>
@@ -44,7 +81,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="233" />
     <option name="y" value="66" />
     <option name="width" value="1400" />
@@ -55,7 +92,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,12 +115,17 @@
               <item name="TS-axios" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
               <item name="learn-code" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="03-7 变量- 解构.ts" type="620a8d5e:NestingTreeNode" />
+=======
+              <item name="03-2基础类型-下.ts" type="620a8d5e:NestingTreeNode" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -96,8 +137,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="C:\Users\EDZ\AppData\Roaming\npm\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="C:\Users\Ygm\AppData\Roaming\npm\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -116,7 +157,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Node.js.03-7 变量- 解构.js">
+=======
+  <component name="RunManager" selected="Node.js.03-2基础类型-下.js">
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
     <configuration name="03-1基础类型-上.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-1基础类型-上.js" working-dir="$PROJECT_DIR$/doc/learn-code">
       <method v="2" />
     </configuration>
@@ -126,7 +171,14 @@
     <configuration name="03-2基础类型-下.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-2基础类型-下.js" working-dir="$PROJECT_DIR$/doc/learn-code">
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="03-7 变量- 解构.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-7 变量- 解构.js" working-dir="$PROJECT_DIR$/doc/learn-code">
+=======
+    <configuration name="03-7 解构赋值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/doc/learn-code/03-7 解构赋值.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-9 接口含义.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/doc/learn-code/03-9 接口含义.js" working-dir="$PROJECT_DIR$">
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
       <method v="2" />
     </configuration>
     <configuration name="03-9 接口介绍.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03-9 接口介绍.js" working-dir="$PROJECT_DIR$/doc/learn-code">
@@ -134,11 +186,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Node.js.03-7 变量- 解构.js" />
         <item itemvalue="Node.js.03-11 接口-额外属性检查+函数类型+可索引类型 .js" />
         <item itemvalue="Node.js.03-9 接口介绍.js" />
         <item itemvalue="Node.js.03-2基础类型-下.js" />
         <item itemvalue="Node.js.03-1基础类型-上.js" />
+=======
+        <item itemvalue="Node.js.03-2基础类型-下.js" />
+        <item itemvalue="Node.js.03-1基础类型-上.js" />
+        <item itemvalue="Node.js.03-9 接口含义.js" />
+        <item itemvalue="Node.js.03-7 解构赋值.js" />
+        <item itemvalue="Node.js.greet.js" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
       </list>
     </recent_temporary>
   </component>
@@ -160,14 +220,27 @@
       <workItem from="1563344157115" duration="484000" />
       <workItem from="1563445048634" duration="1798000" />
       <workItem from="1563511791067" duration="1027000" />
+<<<<<<< HEAD
       <workItem from="1565168194826" duration="5173000" />
       <workItem from="1566217253275" duration="1854000" />
       <workItem from="1573548150124" duration="442000" />
+=======
+      <workItem from="1564584266433" duration="571000" />
+      <workItem from="1564586451750" duration="559000" />
+      <workItem from="1564669585263" duration="851000" />
+      <workItem from="1566352784263" duration="595000" />
+      <workItem from="1573052549649" duration="1234000" />
+      <workItem from="1573136627190" duration="2551000" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="16988000" />
+=======
+    <option name="totallyTimeSpent" value="15880000" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,22 +252,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1780243" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2527881" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.23196448" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32963374" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.22735043" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32820514" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -205,18 +285,20 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-7 解构赋值.js" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-7 解构赋值.js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js.map" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.js" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js" />
-        <option value="$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js.map" />
+        <option value="$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js.map" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js.map" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.js.map" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.js" />
         <option value="$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.js.map" />
+=======
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
       </list>
     </option>
   </component>
@@ -274,20 +356,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js">
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-7 解构赋值.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="203">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts">
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-7 解构赋值.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="145">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -310,38 +393,34 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts">
+=======
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-9 接口含义.js" />
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-9 接口含义.ts" />
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.js">
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3170">
-          <caret line="1085" column="10" selection-start-line="1085" selection-start-column="10" selection-end-line="1085" selection-end-column="10" />
+        <state relative-caret-position="232">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-10 接口-可选属性和只读属性.ts">
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-1基础类型-上.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="319">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .js">
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="-174">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-11 接口-额外属性检查+函数类型+可索引类型 .ts">
+    <entry file="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.ts">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="676">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
@@ -372,6 +451,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+        <state relative-caret-position="348">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+>>>>>>> 93fb6f81ec1992123f32c38cf4769fbeace011c6
         </state>
       </provider>
     </entry>

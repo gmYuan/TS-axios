@@ -1,20 +1,24 @@
-// 1 数字
-let num1: number = 20
-let num2: number = 0x14       //16进制
-let num3: number = 0b10100    // 2进制
-let num4: number = 0o24       // 8进制
+// 1 数字类型
+let digNum: number = 20
+let binNum: number = 0b1010
+let hexNum: number = 0x14
+let octalNum: number = 0o114
 
-console.log(num1, num2, num3, num4)
+console.log(digNum, binNum, hexNum, octalNum)
 
-// 2 字符串
-let str1: string = `ygm   !`
+// 2 布尔类型
+let blex: boolean = true
+console.log(blex)
 
-// 3 数组
-let arr1: number[] = [1, 2, 4]
+// 3 字符串类型
+let stringex: string = `字符串测试`
+console.log(stringex)
 
+// 4 数组类型
+let arr: number[] = [1, 2, 3]
+console.log(arr)
 
-// 4 元组
-let tur1: [number, string]
-tur1 = [1, 'haha']
-tur1 = [2, 'aaa']
-console.log(tur1[1].concat('1'))
+// 5 元组
+let turp: [number, string] = [20, 'ygm']
+console.log(turp[1].substr(1))
+
