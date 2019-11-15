@@ -2,15 +2,23 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
-        <item url="file://$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.js" />
-        <item url="file://$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.js" />
+        <item url="file://$PROJECT_DIR$/doc/03-10 接口-可选属性和只读属性.js" />
+        <item url="file://$PROJECT_DIR$/doc/03-11 接口-额外属性检查+函数类型+可索引类型 .js" />
+        <item url="file://$PROJECT_DIR$/doc/03-1基础类型-上.js" />
+        <item url="file://$PROJECT_DIR$/doc/03-2基础类型-下.js" />
+        <item url="file://$PROJECT_DIR$/doc/03-7 变量- 解构.js" />
+        <item url="file://$PROJECT_DIR$/doc/03-7 解构赋值.js" />
+        <item url="file://$PROJECT_DIR$/doc/03-9 接口介绍.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/doc/learn-code/03-2基础类型-下.js" />
-      <root url="file://$PROJECT_DIR$/doc/learn-code/03-7 变量- 解构.js" />
-      <root url="file://$PROJECT_DIR$/doc/learn-code/03-9 接口介绍.js" />
+      <root url="file://$PROJECT_DIR$/doc/03-10 接口-可选属性和只读属性.js" />
+      <root url="file://$PROJECT_DIR$/doc/03-11 接口-额外属性检查+函数类型+可索引类型 .js" />
+      <root url="file://$PROJECT_DIR$/doc/03-1基础类型-上.js" />
+      <root url="file://$PROJECT_DIR$/doc/03-2基础类型-下.js" />
+      <root url="file://$PROJECT_DIR$/doc/03-7 变量- 解构.js" />
+      <root url="file://$PROJECT_DIR$/doc/03-7 解构赋值.js" />
+      <root url="file://$PROJECT_DIR$/doc/03-9 接口介绍.js" />
     </CLASSES>
     <SOURCES />
   </library>
